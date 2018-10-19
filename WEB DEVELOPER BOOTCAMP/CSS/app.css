@@ -1,0 +1,17 @@
+h1{
+	color: red;
+	border-color: purple;
+	border-width: 5px;
+	border-style: solid;
+}
+li{
+	color: rgb(0,200,100);
+
+}
+h4{
+color: rgba(200,100,0,0.2);
+border: solid 5px red;
+}
+body{
+	background: url(http://vozrojdenie.me/wp-content/uploads/pale-yellow-painted-wall-texture-photograph-photos-1286224-wallpaper-1024x683.jpg);
+}
